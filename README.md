@@ -1,4 +1,4 @@
-# inventario-escolar
+# inventario escolar
 
 
 <html lang="es">
