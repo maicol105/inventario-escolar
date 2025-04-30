@@ -51,7 +51,13 @@
       display: none;
     }
 
-
+    header {
+      background-color: #5076bd;
+      color: white;
+      display: flex;
+      align-items: center;
+      padding: 10px 20px;
+    }
 
     .header-image {
       width: 120px;
@@ -121,14 +127,14 @@
   </style>
 </head>
 <body>
-
+<!-- Login -->
 <div class="login-container" id="login">
 <h2>Iniciar Sesión</h2>
 <input id="usuario" placeholder="Usuario" required="" type="text"/>
 <input id="clave" placeholder="Contraseña" required="" type="password"/>
 <button onclick="validarLogin()">Entrar</button>
 </div>
-
+<!-- Inventario visible para ambos -->
 <div id="inventario">
 <header>
 <img alt="Logo" class="header-image" src="imagen 4-Photoroom.png"/>
@@ -195,7 +201,7 @@
       document.getElementById('login').style.display = 'none';
       document.getElementById('inventario').style.display = 'block';
 
- 
+      // Mostrar solo el botón de salida para profesores
       if (usuario === 'profesor') {
         alert("Has iniciado sesión como Profesor (solo consulta).");
       } else {
