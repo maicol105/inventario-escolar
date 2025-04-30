@@ -46,13 +46,7 @@
       display: none;
     }
 
-    header {
-      background-color: #5076bd;
-      color: white;
-      display: flex;
-      align-items: center;
-      padding: 10px 20px;
-    }
+
 
     .header-image {
       width: 120px;
