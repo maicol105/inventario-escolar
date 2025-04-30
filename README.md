@@ -3,7 +3,7 @@
 <html lang="es">
 <head>
 <meta charset="utf-8"/>
-
+<title>Login | Inventario Estudiantil</title>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <style>
     body {
@@ -47,7 +47,9 @@
       cursor: pointer;
     }
 
- 
+    #inventario {
+      display: none;
+    }
 
     header {
       background-color: #5076bd;
@@ -216,3 +218,4 @@
 </script>
 </body>
 </html>
+
