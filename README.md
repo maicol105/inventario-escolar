@@ -1,6 +1,5 @@
 # inventario-escolar
-pagina wed
-<!DOCTYPE html>
+
 
 <html lang="es">
 <head>
@@ -129,14 +128,14 @@ pagina wed
   </style>
 </head>
 <body>
-<!-- Login -->
+
 <div class="login-container" id="login">
 <h2>Iniciar Sesión</h2>
 <input id="usuario" placeholder="Usuario" required="" type="text"/>
 <input id="clave" placeholder="Contraseña" required="" type="password"/>
 <button onclick="validarLogin()">Entrar</button>
 </div>
-<!-- Inventario visible para ambos -->
+
 <div id="inventario">
 <header>
 <img alt="Logo" class="header-image" src="img/imagen 4-Photoroom.png"/>
@@ -203,7 +202,7 @@ pagina wed
       document.getElementById('login').style.display = 'none';
       document.getElementById('inventario').style.display = 'block';
 
-      // Mostrar solo el botón de salida para profesores
+ 
       if (usuario === 'profesor') {
         alert("Has iniciado sesión como Profesor (solo consulta).");
       } else {
