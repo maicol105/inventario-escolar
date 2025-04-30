@@ -138,7 +138,7 @@
 
 <div id="inventario">
 <header>
-<img alt="Logo" class="header-image" src="img/imagen 4-Photoroom.png"/>
+<img alt="Logo" class="header-image" src="imagen 4-Photoroom.png"/>
 <div class="header-title">Inventario Estudiantil</div>
 </header>
 <div class="table-container">
@@ -162,7 +162,7 @@
 </tr>
 <tr>
 <td>2</td>
-<td><img alt="Proyector Epson" class="item-img" src="img/images.jpg"/></td>
+<td><img alt="Proyector Epson" class="item-img" src="images.jpg"/></td>
 <td>Proyector Epson</td>
 <td>Electrónica</td>
 <td>5</td>
@@ -170,7 +170,7 @@
 </tr>
 <tr>
 <td>3</td>
-<td><img alt="Libros de Matemáticas" class="item-img" src="img/download.jpg"/></td>
+<td><img alt="Libros de Matemáticas" class="item-img" src="descargar.jpg"/></td>
 <td>Libros de Matemáticas</td>
 <td>Biblioteca</td>
 <td>40</td>
@@ -178,7 +178,7 @@
 </tr>
 <tr>
 <td>4</td>
-<td><img alt="Sillas escolares" class="item-img" src="img/imagen 2.jpg"/></td>
+<td><img alt="Sillas escolares" class="item-img" src="imagen 2.jpg"/></td>
 <td>Sillas escolares</td>
 <td>Mobiliario</td>
 <td>100</td>
