@@ -47,9 +47,7 @@
       cursor: pointer;
     }
 
-    #inventario {
-      display: none;
-    }
+ 
 
     header {
       background-color: #5076bd;
