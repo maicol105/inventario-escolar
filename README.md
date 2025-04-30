@@ -154,7 +154,7 @@
 </tr>
 <tr>
 <td>1</td>
-<td><img alt="Computadora portátil" class="item-img" src="img/Desktop_computer_clipart_-_Yellow_theme.svg.png"/></td>
+<td><img alt="Computadora portátil" class="item-img" src="Desktop_computer_clipart_-_Yellow_theme.svg.png"/></td>
 <td>Computadora portátil</td>
 <td>Electrónica</td>
 <td>15</td>
