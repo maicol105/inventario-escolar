@@ -3,10 +3,15 @@
 <html lang="es">
 <head>
 <meta charset="utf-8"/>
-<title>Login | Inventario Estudiantil</title>
+  <título>Iniciar sesión | Inventario Estudiantil</title> <style>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <style>
-  
+     body {
+      font-family: Arial, sans-serif;
+      background: #f2f2f2;
+      margin: 0;
+      padding: 0;
+    }
 
     .login-container {
       max-width: 400px;
