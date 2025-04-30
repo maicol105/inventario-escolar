@@ -170,7 +170,7 @@
 </tr>
 <tr>
 <td>3</td>
-<td><img alt="Libros de Matemáticas" class="item-img" src="descargar.jpg"/></td>
+<td><img alt="Libros de Matemáticas" class="item-img" src="download.jpg"/></td>
 <td>Libros de Matemáticas</td>
 <td>Biblioteca</td>
 <td>40</td>
